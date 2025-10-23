@@ -1,1 +1,1 @@
-# new-cosmects
+# Empresa fictícia desenvolvida para fins educativos
